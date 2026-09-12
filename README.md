@@ -1,5 +1,5 @@
 # AI-Theses
-Ai Framework Theses Directory
+JCRIN TAU TEMPERATURE MAPPING Theses Directory
 
 https://zenodo.org/records/18463138
 
